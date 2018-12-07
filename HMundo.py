@@ -4,3 +4,4 @@ print ("Empesando a aprender Git")
 for j in range(1,10):
 	print ("El valor de", j)
 	
+print ("Tabla de multiplicar")
